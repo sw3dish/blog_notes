@@ -1,0 +1,1 @@
+- `mix deps.clean --unlock --unused` to remove unused dependencies' files
