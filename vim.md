@@ -7,3 +7,7 @@
     - Make sure `filetype plugin on` is in `.vimrc`
     - Add code to `.vim/after/ftplugin`
         - Using `setlocal`
+
+## 2023-03-23
+- <C-o>/<C-i> in normal mode navigates around the jump list
+    - jump list is across vim instances!
